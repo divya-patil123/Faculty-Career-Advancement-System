@@ -1,89 +1,42 @@
-# Automated Faculty Career Advancement System
+# Automated System for Career Advancements of the Faculties of Higher Education
 
 ## 📌 Project Overview
 
-The Faculty Career Advancement System is a web-based application designed to automate the faculty promotion and career advancement process in higher education institutions.
+This project is a web-based decision support system designed to automate faculty performance evaluation and career advancement processes in higher education institutions.
 
-The system evaluates faculty eligibility based on predefined academic and administrative criteria, reducing manual effort while ensuring transparency and accuracy.
+The system helps management evaluate faculty eligibility for promotions based on dynamic rules such as:
 
-It enables administrators to manage faculty records, monitor achievements, and generate reports efficiently.
-
----
+- Teaching Experience
+- Research Publications
+- Workshops/FDPs
+- Performance Metrics
+- Student Feedback
 
 ## 🚀 Features
 
-- Faculty Registration & Login
-- Admin Dashboard
-- Career Advancement Eligibility Checking
-- Faculty Profile Management
-- Research Publication Management
-- Teaching Experience Management
-- Workshop/FDP Record Management
-- Performance Evaluation
+- Faculty Login & Dashboard
+- Admin Rule Management
+- Dynamic Eligibility Checking
+- Performance Analytics
 - Report Generation
+- Centralized Rule Engine
 
----
-
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 ### Frontend
 - HTML
 - CSS
-- JavaScript
+- JavaScript / React
 
 ### Backend
-- Java
+- Java Spring Boot
 
 ### Database
-- MySQL
+- MySQL / MongoDB
 
-### IDE
-- Eclipse IDE
+## 📌 Future Scope
 
-### Server
-- Apache Tomcat
-
----
-
-## 📂 Project Modules
-
-### Faculty Module
-- Login
-- Update Profile
-- Add Academic Achievements
-- Upload Research Details
-- View Promotion Status
-
-### Admin Module
-- Manage Faculty Records
-- Verify Faculty Information
-- Evaluate Eligibility
-- Generate Reports
-
----
-
-## 🎯 Objectives
-
-- Automate the faculty promotion process.
-- Reduce paperwork and manual calculations.
-- Improve transparency in career advancement.
-- Maintain centralized faculty records.
-- Generate accurate reports for administrators.
-
----
-
-## 💡 Future Enhancements
-
-- Email Notifications
-- Document Verification
-- AI-based Eligibility Suggestions
-- Analytics Dashboard
-- Cloud Deployment
-
----
-
-## 👩‍💻 Developed By
-
-**Divya Patil**
-
-Final Year Computer Science Engineering Student
+- UGC API Integration
+- Automatic Rule Updates
+- AI-based Analytics
+- Feedback Sentiment Analysis
