@@ -1,1 +1,1 @@
-# Faculty-Career-Advancement-System
+Faculty Career Advancement System is a web-based system where faculty can upload their academic activities like papers, workshops, and seminars. Admin can check these records online for appraisal and promotion. This system reduces paperwork, saves time, and makes the process transparent and paperless.
